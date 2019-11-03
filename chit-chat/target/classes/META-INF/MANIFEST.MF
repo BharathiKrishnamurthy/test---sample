@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Bharathi
+Build-Jdk: 12.0.2
+Implementation-Title: Spring-boot-chat-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.chatapp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/chit-chat
+Created-By: Maven Integration for Eclipse
+
